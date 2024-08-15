@@ -1,6 +1,6 @@
 const express = require('express');
 const router = express.Router();
-const path = requrie('path');
+const path = require('path');
 
 router.get('/',(req, res) => {
     res.sendFile(path.join(__dirname, '/public/inex.html'))
