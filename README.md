@@ -1,4 +1,4 @@
-# Note Taker Starter Code
+# Note Taker
 
 ## Description
 A website where you can write down and keep track of all your notes. Don't need a note anymore, that's cool too, you can delete it.
